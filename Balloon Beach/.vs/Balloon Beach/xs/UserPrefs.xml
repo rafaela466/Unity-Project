@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1F7554D0-B510-2F77-2D2E-8B3F05F3A641}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrips/App_Initialize.cs">
+    <Files>
+      <File FileName="Assets/Scrips/CameraFollow.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scrips/App_Initialize.cs" Line="115" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Balloon Beach" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scrips" expanded="True">
+                <Node name="App_Initialize.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="91fd2427-1b3a-41e1-a5f1-13a07b85c099" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
